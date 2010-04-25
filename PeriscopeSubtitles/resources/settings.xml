@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <setting type="lsep" label="30101"/>
+    <setting id="tvshowsrootpath" type="folder" source="video" label="30102" default="D:\TV Shows" />
+    <setting id="separatesubtitlesfolder" type="bool" label="30103" default="false"/>
+    <setting id="subtitlesfolder" type="folder" visible= "eq(-1,true)" enable="eq(-1,true)" source="files" label="30104" default="D:\Subtitles" />
+    <setting id="language" type="enum" values="Dutch|English" label="30105" default="0" />
+    <setting id="dutchsuffix" type="enum" visible="eq(-1,0)" lvalues="30150|30151|30152|30153|30154|30155|30156|30157" label="30106" default="0"/>
+    <setting id="englishsuffix" type="enum" visible="eq(-2,1)" lvalues="30160|30161|30162|30163|30164|30165|30166|30167" label="30106" default="0"/>
+    <setting id="debug" type="bool" label="30107" default="false"/>
+</settings>

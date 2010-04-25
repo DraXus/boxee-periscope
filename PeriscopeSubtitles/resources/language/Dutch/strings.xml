@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <!--
+   * Main
+   -->
+  <string id="30000">Maak een keuze</string>
+  <string id="30001">Zoek ondertitels bij de video die nu speelt</string>
+  <string id="30002">Zoek ondertitels voor een losse tv show aflevering</string>
+  <string id="30003">Zoek alle ontbrekende ondertitels voor alle tv shows</string>
+  <string id="30004">Selecteer tv show afleveringsbestand</string>
+  <string id="30005">Selecteer show naam</string>
+  <string id="30006">Start script</string>  
+
+  <!--
+   * Settings labels
+   -->
+  <string id="30101">Script is alleen voor tv shows en alleen NL en ENG ondertitels!</string>
+  <string id="30102">Map met alle tv shows</string>
+  <string id="30103">Losse map voor ondertitels</string>
+  <string id="30104">Map voor ondertitels</string>
+  <string id="30105">Taal voor de ondertitels die moeten worden gezocht</string>
+  <string id="30106">Tekst om toe te voegen aan de ondertitels bestandsnaam</string>
+  <string id="30107">Voeg debug informatie toe aan xbmc logfile</string>
+
+  <string id="30150">Dutch</string>
+  <string id="30151">Nederlands</string>
+  <string id="30152">NL</string>
+  <string id="30153">NLD</string>
+  <string id="30154">dutch</string>
+  <string id="30155">nederlands</string>
+  <string id="30156">nl</string>
+  <string id="30157">nld</string>
+
+  <string id="30160">English</string>
+  <string id="30161">Engels</string>
+  <string id="30162">EN</string>
+  <string id="30163">ENG</string>
+  <string id="30164">english</string>
+  <string id="30165">engels</string>
+  <string id="30166">en</string>
+  <string id="30167">eng</string>
+
+  <!--
+   * Messages
+   -->
+  <string id="30200">Ondertitels aan het zoeken ...</string>
+  <string id="30201">Zoek ondertitels voor alle tv shows zonder ondertitels ...</string>
+  <string id="30202">Ontbrekende ondertitels zoeken ...</string>
+  <string id="30203">Overslaan</string>
+  <string id="30204">Ondertitels geselecteerd</string>
+  <string id="30205">Ondertitels downloaden ...</string>
+  <string id="30206">Ondertitels gedownload</string>
+  <string id="30207">Precies de juiste ondertitels gevonden</string>
+  <string id="30208">Geen ondertitels gevonden</string>
+  <string id="30209">'%s' niet gevonden op bierdopje.com</string>
+  <string id="30210">'%s' kan niet worden ontcijferd</string>
+  <string id="30211">Lukt niet om bestandnaam van pad te scheiden</string>
+  <string id="30212">Tv show id zoeken op bierdopje.com ...</string>
+  <string id="30213">Ondertitels zoeken op bierdopje.com ...</string>
+  <string id="30214">Resultaat</string>
+  <string id="30215">Geen ondertitels gevonden</string>
+  <string id="30216">Ondertitels gevonden en gedownload</string>
+  <string id="30217">%s ondertitels gedownload en %s ondertitels niet gevonden</string>
+  <string id="30218">Foutmelding</string>
+  <string id="30219">Niet gelukt om url op te vragen: %s</string>
+  <string id="30220">Geen geldige xml van bierdopje.com ontvangen</string>
+  <string id="30221">Niet gelukt om ondertitels op te slaan naar: %s</string>
+  <string id="30222">Alle tv show bestanden hebben al ondertitels</string>
+  <string id="30223">Tv show map niet gevonden: controleer instellingen</string>
+  <string id="30224">Alleen lokale paden worden ondersteund</string>
+  <string id="30225">Probeer de SBM share te koppelen (bijv. aan een driveletter)</string>
+
+</strings>

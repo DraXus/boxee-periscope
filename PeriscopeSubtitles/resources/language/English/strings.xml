@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <!--
+   * Main
+   -->
+  <string id="30000">Make a choice</string>
+  <string id="30001">Search subtitles for currently playing video</string>
+  <string id="30002">Search subtitles for a single tv show episode</string>
+  <string id="30003">Search all missing subtitles for all tv shows</string>
+  <string id="30004">Select tv show episode file</string>
+  <string id="30005">Select show name</string>
+  <string id="30006">Run script</string>  
+
+  <!--
+   * Settings labels
+   -->
+  <string id="30101">Script is only for tv shows and only Dutch and English subtitles!</string>
+  <string id="30102">Folder with all the tv shows</string>
+  <string id="30103">Separate folder for subtitles</string>
+  <string id="30104">Folder for subtitles</string>
+  <string id="30105">Language for subtitles to search for</string>
+  <string id="30106">Text to add to subtitles filenames</string>
+  <string id="30107">Add debug information in xbmc logfile</string>
+
+  <string id="30150">Dutch</string>
+  <string id="30151">Nederlands</string>
+  <string id="30152">NL</string>
+  <string id="30153">NLD</string>
+  <string id="30154">dutch</string>
+  <string id="30155">nederlands</string>
+  <string id="30156">nl</string>
+  <string id="30157">nld</string>
+
+  <string id="30160">English</string>
+  <string id="30161">Engels</string>
+  <string id="30162">EN</string>
+  <string id="30163">ENG</string>
+  <string id="30164">english</string>
+  <string id="30165">engels</string>
+  <string id="30166">en</string>
+  <string id="30167">eng</string>
+
+  <!--
+   * Messages
+   -->
+  <string id="30200">Searching subtitles ...</string>
+  <string id="30201">Searching all tv show files without subtitles ...</string>
+  <string id="30202">Processing files without subtitles</string>
+  <string id="30203">Skip</string>
+  <string id="30204">Subtitles selected</string>
+  <string id="30205">Downloading subtitles ...</string>
+  <string id="30206">Subtitles downloaded</string>
+  <string id="30207">Exact matching subtitles found</string>
+  <string id="30208">No subtitles found</string>
+  <string id="30209">'%s' not found on bierdopje.com</string>
+  <string id="30210">'%s' could not be decoded</string>
+  <string id="30211">Unable to extract moviefile from full path</string>
+  <string id="30212">Searching tv show id on bierdopje.com ...</string>
+  <string id="30213">Searching subtitles on bierdopje.com ...</string>
+  <string id="30214">Results</string>
+  <string id="30215">No subtitles found</string>
+  <string id="30216">Subtitles found and downloaded</string>
+  <string id="30217">%s subtitles downloaded and %s subtitles not found</string>
+  <string id="30218">Error</string>
+  <string id="30219">Failed to get url: %s</string>
+  <string id="30220">Failed to parse xml response from bierdopje.com</string>
+  <string id="30221">Failed to save subtitles to: %s</string>
+  <string id="30222">Nothing to do: all tv show files already have subtitles</string>
+  <string id="30223">Folder for tv shows not found, check script settings</string>
+  <string id="30224">Only local paths are supported</string>  
+  <string id="30225">Try mapping a driveletter or mounting the SMB share</string>    
+
+</strings>
