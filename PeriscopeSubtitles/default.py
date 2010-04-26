@@ -245,18 +245,14 @@ def downloadsubtitle(url, moviefilepathname, language, timeout):
 def processmoviefile(moviefilepathname, progressdialog, count, total):
     global downloadcounter
     global notfoundcounter    
-    if True:
-        periscope_client = periscope.Periscope()
-        langs = ["es", ]
-        sub = periscope_client.downloadSubtitle(moviefilepathname, langs)
-        if sub:
-           downloadcounter += 1
-        else:
-           notfoundcounter += 1
+    #print "moviefilepathname = %s" % moviefilepathname
+    periscope_client = periscope.Periscope()
+    langs = ["en", ]
+    sub = periscope_client.downloadSubtitle(moviefilepathname, langs)
+    if sub:
+       downloadcounter += 1
     else:
-        okdialog = xbmcgui.Dialog()
-        ok = okdialog.ok(getstring(30218), getstring(30211))
-        if debug: print "Unable to extract moviefile from full path: " + moviefilepathname
+       notfoundcounter += 1
 
 
 #====================================================================================================================

@@ -16,13 +16,14 @@
 #    along with emesene; if not, write to the Free Software
 #    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
-#from OpenSubtitles import OpenSubtitles
-#from SubtitleSource import SubtitleSource
+# Works
+from Subtitulos import Subtitulos
+from OpenSubtitles import OpenSubtitles
+from SubtitleSource import SubtitleSource
+
+# Doesn't work
 #from Podnapisi import Podnapisi
 #from SubScene import SubScene
 #from Addic7ed import Addic7ed
-from Subtitulos import Subtitulos
-
 #from TvSubtitles import TvSubtitles
-
 #from Podnapisi2 import Podnapisi

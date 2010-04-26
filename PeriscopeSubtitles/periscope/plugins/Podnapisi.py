@@ -76,10 +76,10 @@ class Podnapisi(SubtitleDatabase.SubtitleDB):
 		try:
 			socket.setdefaulttimeout(10)
 			page = urllib2.urlopen(searchurl)
-		except urllib2.HTTPError as inst:
+		except urllib2.HTTPError, inst:
 			logging.info("Error : %s" %inst)
 			return sublinks
-		except urllib2.URLError as inst:
+		except urllib2.URLError, inst:
 			logging.info("TimeOut : %s" %inst)
 			return sublinks
 		content = page.read()
