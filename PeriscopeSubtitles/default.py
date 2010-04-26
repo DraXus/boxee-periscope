@@ -247,7 +247,7 @@ def processmoviefile(moviefilepathname, progressdialog, count, total):
     global notfoundcounter    
     #print "moviefilepathname = %s" % moviefilepathname
     periscope_client = periscope.Periscope()
-    langs = ["en", ]
+    langs = ["es", ]
     sub = periscope_client.downloadSubtitle(moviefilepathname, langs)
     if sub:
        downloadcounter += 1
