@@ -70,4 +70,15 @@
   <string id="30224">Alleen lokale paden worden ondersteund</string>
   <string id="30225">Probeer de SBM share te koppelen (bijv. aan een driveletter)</string>
 
+  <string id="30300">Spanish (Spain) [es]</string>
+  <string id="30301">Spanish (Argentina) [es-ar]</string>
+  <string id="30302">English [en]</string>
+  <string id="30303">Portuguese [pt]</string>
+  <string id="30304">Portuguese (Brazil) [pt-br]</string>
+  <string id="30305">Deutsch [de]</string>  
+  <string id="30306">French [fr]</string>
+  <string id="30307">Italian [it]</string>
+  <string id="30308">Catalan [es-ca]</string>
+  <string id="30309">Galician [es-gl]</string>
+  <string id="30310">Basque [es-eu]</string>
 </strings>
